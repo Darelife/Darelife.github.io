@@ -19,7 +19,7 @@
 }
 .container
 {
-    background-color: #d6f31f;
+    background-color: rgb(214,243,31);
     height:600px;
     padding:0px;
     margin:0px;
@@ -68,7 +68,7 @@
 {
     font-size: 2em;
     font-weight: bold;
-    color: #000;
+    color: black;
     text-align: left;
     margin-left: 100px;
     padding: 0;
