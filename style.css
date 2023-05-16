@@ -60,6 +60,12 @@ a:hover
     text-underline-offset: -10px;
     text-decoration-skip-ink: none;
 }
+a:visited
+{
+    color:black;
+    text-decoration-color: black;
+    text-decoration-thickness: 0;
+}
 .image
 {
     text-align: center;
