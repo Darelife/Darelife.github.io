@@ -58,8 +58,8 @@ a:visited
 a:hover
 {
     text-decoration-color: cyan;
-    text-decoration-thickness: 45%;
-    text-underline-offset: -10px;
+    text-decoration-thickness: 50%;
+    text-underline-offset: -8px;
     text-decoration-skip-ink: none;
 }
 .image
@@ -89,5 +89,5 @@ a:hover
 ::selection {
     color:inherit;
     text-decoration: inherit;
-    background: rgb(186, 245, 245);
+    background:#baf5f5;
 }
