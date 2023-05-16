@@ -59,11 +59,7 @@
     text-underline-offset: -20px;
     text-decoration-skip-ink: none;
 }
-.image
-{
-    text-align: center;
-    margin-left: 5%;
-}
+
 .content
 {
     font-family: 'Lato', sans-serif;
