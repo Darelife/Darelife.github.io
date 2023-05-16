@@ -19,7 +19,8 @@
 
 .container
 {
-    background-color: rgb(214,243,31);
+/*     background-color: rgb(214,243,31); */
+    background-color: #85DCBE;
     height:900px;
     padding:0px;
     margin:0px;
@@ -49,7 +50,7 @@
 }
 a
 {
-    color:black;
+    color:#1e1e1e;
     text-decoration-color: black;
     text-decoration-thickness: 0;
 }
@@ -73,12 +74,14 @@ a:hover
 }
 .content
 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Helvetica';
     text-align: left;
-    font-size: 2.25em;
+    font-size: 1.5em;
     padding: 20px;
-    margin-left:70px;
-    margin-right:70px;
+    margin-left:10%;
+    margin-right:30%;
+    line-height: 1.25;
+    color:#1e1e1e
 }
 .byline
 {
