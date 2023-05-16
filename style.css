@@ -17,9 +17,8 @@
 /*     background-color: rgb(214,243,31); */
     background-color: #85DCBE;
     height:900px;
-    padding:0px;
-    margin:0px;
-}
+    width:100%;
+}  
 .Webtitle
 {
     text-align: Left;
@@ -74,7 +73,7 @@ a:hover
     font-size: 1.5em;
     padding: 20px;
     margin-left:10%;
-    margin-right:30%;
+    margin-right:40%;
     line-height: 1.25;
     color:#1e1e1e
 }
