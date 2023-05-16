@@ -53,14 +53,14 @@ a
     text-decoration-color: black;
     text-decoration-thickness: 0;
 }
-a:hover
+a:visited
 {
-    text-decoration-color: cyan;
+    text-decoration-color: black;
     text-decoration-thickness: 45%;
     text-underline-offset: -10px;
     text-decoration-skip-ink: none;
 }
-a:visited
+a:hover
 {
     text-decoration-color: cyan;
     text-decoration-thickness: 45%;
