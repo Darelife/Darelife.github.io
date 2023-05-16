@@ -88,7 +88,7 @@ a:hover
     padding: 0;
 }
 ::selection {
-    color: black;
-    text-decoration: none;
+    color:inherit;
+    text-decoration: inherit;
     background: rgb(186, 245, 245);
 }
