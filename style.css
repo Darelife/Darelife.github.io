@@ -51,13 +51,12 @@ a
 {
     text-decoration-color: black;
     text-decoration-thickness: 0;
-    color:black
 }
 a:hover
 {
     text-decoration-color: cyan;
-    text-decoration-thickness: 45%;
-    text-underline-offset: -10px;
+    text-decoration-thickness: 30%;
+    text-underline-offset: -20px;
     text-decoration-skip-ink: none;
 }
 .image
