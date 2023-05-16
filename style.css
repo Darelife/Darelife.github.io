@@ -62,9 +62,10 @@ a:hover
 }
 a:visited
 {
-    color:black;
-    text-decoration-color: black;
-    text-decoration-thickness: 0;
+    text-decoration-color: cyan;
+    text-decoration-thickness: 45%;
+    text-underline-offset: -10px;
+    text-decoration-skip-ink: none;
 }
 .image
 {
